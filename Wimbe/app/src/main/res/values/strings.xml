@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wimbe</string>
+    <string name="app_titulo">Calculadora de Idade</string>
+    <string name="app_nome">Nome</string>
+    <string name="app_ano">Ano de nascimento</string>
+    <string name="app_calcular">Calcular Idade</string>
+</resources>
